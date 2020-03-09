@@ -2,5 +2,6 @@
   "cSpell.words": [
     "descr"
   ],
-  "AllAutocomplete.cycleOpenDocumentsOnLaunch": true
+  "AllAutocomplete.cycleOpenDocumentsOnLaunch": true,
+  "AllAutocomplete.showCurrentDocument": true
 }
