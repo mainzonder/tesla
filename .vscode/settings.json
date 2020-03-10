@@ -17,7 +17,7 @@
   "editor.formatOnSave": true,
   "AllAutocomplete.cycleOpenDocumentsOnLaunch": true,
   "[javascript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.wordWrapColumn": 100,
   "cSpell.language": ",ru"
