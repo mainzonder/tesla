@@ -4,5 +4,9 @@
     "Хольцхаузеном"
   ],
   "AllAutocomplete.cycleOpenDocumentsOnLaunch": true,
-  "AllAutocomplete.showCurrentDocument": true
+  "AllAutocomplete.showCurrentDocument": true,
+  "files.autoSave": "onFocusChange",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "PragmataPro Mono Liga, 'Courier New', monospace",
+  "editor.tabSize": 2
 }
