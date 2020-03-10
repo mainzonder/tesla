@@ -12,9 +12,13 @@
   "editor.tabSize": 2,
   "editor.renderWhitespace": "boundary",
   "editor.wordWrap": "wordWrapColumn",
-  "editor.defaultFormatter": "HookyQR.beautify",
+  "editor.defaultFormatter": "Atishay-Jain.All-Autocomplete",
   "editor.gotoLocation.multipleDeclarations": "gotoAndPeek",
   "editor.formatOnSave": true,
   "AllAutocomplete.cycleOpenDocumentsOnLaunch": true,
-  "AllAutocomplete.disableNumberHandling": true
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.wordWrapColumn": 100,
+  "cSpell.language": ",ru"
 }
