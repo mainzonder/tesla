@@ -193,7 +193,8 @@ body {
   margin: -55px auto 0;
   position: relative;
   z-index: 6;
-  max-width: 1200px;
+  max-width: 1230px;
+  padding: 0 15px;
 }
 
 .statistics {
@@ -337,4 +338,9 @@ body {
   content: '|';
   position: absolute;
   left: -5px;
+}
+@media (max-width: 410px) {
+  .logo img {
+    width: 200px;
+  }
 }
